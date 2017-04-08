@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\HuangMin66\\DaggerBuildDemo\\DaggerBuildDemo-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\HuangMin66\\DaggerBuildDemo\\DaggerBuildDemo-Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HuangMin66\\DaggerBuildDemo\\DaggerBuildDemo-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\HuangMin66\\DaggerBuildDemo\\DaggerBuildDemo-Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
